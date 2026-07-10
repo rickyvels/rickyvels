@@ -1,8 +1,3 @@
-<h3><b>Hi, I'm Ryan! :smile:</b></h3>
-
-Soy un desarrollador web detallista y enfocado en la experiencia de usuario (UX), apasionado por crear experiencias de usuario prácticas y escribir código hermoso. Ingeniero de software a tiempo completo en @FamilySearch. Propietario y mantenedor de Nyoom, una aplicación web de seguimiento de estadísticas para miembros de iRacing.
-
-Check out my portfolio site para ver una muestra de todos mis proyectos, experiencia y habilidades.
 
 <a href="https://ryanbey.dev" target="_blank">Check out my portfolio site</a> for a showcase of all my projects, experience, and skills.
 
@@ -13,7 +8,7 @@ Check out my portfolio site para ver una muestra de todos mis proyectos, experie
   <img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/>
 </p>
 
-<h1 align="center">¡Hola, soy Ricky! 👋🇵🇪</h1>
+<h1 align="center">¡Hola, soy Ricky Vels! 😆</h1>
 <h3 align="center">Software Developer enfocado en tecnologías web y código abierto</h3>
 
 <p align="center">
@@ -68,5 +63,7 @@ Check out my portfolio site para ver una muestra de todos mis proyectos, experie
 ### Especificar Iconos
 Copia y pega el siguiente bloque de código en tu propio `README.md`. Solo cambia el parámetro `?i=js,html,css` por los identificadores de tus habilidades separados por comas.
 
-```md
+
+Check out my portfolio site para ver una muestra de todos mis proyectos, experiencia y habilidades.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
