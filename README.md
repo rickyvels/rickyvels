@@ -1,5 +1,5 @@
 
-<a href="https://v7-ricky.vercel.app/" target="_blank">Check out my portfolio site</a> for a showcase of all my projects, experience, and skills.
+<a href="https://v7-ricky.vercel.app/" target="_blank">Visita mi sitio de portafolio</a> para ver una muestra de todos mis proyectos, experiencia y habilidades.
 
 <br />
 
@@ -21,13 +21,7 @@
   <a href="https://x.com/rickyvels"><strong>𝕏 Lo que pienso</strong></a>
 </p>
 
-<p align="center">
-  <strong>P.D.</strong> Para leer esta intro directamente en tu terminal, solo ejecuta: <br>
-  <code>npx fka</code> <br>
-  <em>¿Por qué? — ¿Por qué no? 🤷🏻‍♂️</em>
-</p>
 
----kCtrl + K luego V → abre la vista previa al lado derecho (esta es la que quieres)kCtrl + K luego V → abre la vista previa al lado derecho (esta es la que quieres)
 
 ## 🛠️ Mis Tecnologías Preferidas (My Stack)
 
@@ -53,13 +47,8 @@
 
 ---
 
-## LENGUAJES QUE MANEJO
 
 <p align="center">
   <img align="center" src="./contribucion.svg"/>
   <img align="center" src="./.github/example-light.png#gh-light-mode-only"/>
 </p>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
