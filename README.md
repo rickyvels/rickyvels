@@ -1,5 +1,12 @@
-Hola 👋
-Soy un apasionado desarrollador de software que vive en Peru, y trabajo para EnternameSartup como Developer Software en el equipo de WordPress. . Me encanta ser parte del desarrollo de tecnologías web. Me gusta organizar conferencias y dar charlas. Me encanta el desarrollo de código abierto y construyo cosas en mi perfil de GitHub (aquí). Me encanta JavaScript y Ruby (y RoR)⭐️.
+<h3><b>Hi, I'm Ryan! :smile:</b></h3>
+
+Soy un desarrollador web detallista y enfocado en la experiencia de usuario (UX), apasionado por crear experiencias de usuario prácticas y escribir código hermoso. Ingeniero de software a tiempo completo en @FamilySearch. Propietario y mantenedor de Nyoom, una aplicación web de seguimiento de estadísticas para miembros de iRacing.
+
+Check out my portfolio site para ver una muestra de todos mis proyectos, experiencia y habilidades.
+
+<a href="https://ryanbey.dev" target="_blank">Check out my portfolio site</a> for a showcase of all my projects, experience, and skills.
+
+<br />
 
 <p align="center">
   <img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/>
