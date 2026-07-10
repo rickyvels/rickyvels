@@ -1,10 +1,10 @@
 
-<a href="https://ryanbey.dev" target="_blank">Check out my portfolio site</a> for a showcase of all my projects, experience, and skills.
+<a href="https://v7-ricky.vercel.app/" target="_blank">Check out my portfolio site</a> for a showcase of all my projects, experience, and skills.
 
 <br />
 
 <p align="center">
-  <img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/>
+  <img align="center" width="280" src="./diacodeando.gif"/>
   <img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/>
 </p>
 
@@ -27,7 +27,7 @@
   <em>¿Por qué? — ¿Por qué no? 🤷🏻‍♂️</em>
 </p>
 
----
+---kCtrl + K luego V → abre la vista previa al lado derecho (esta es la que quieres)kCtrl + K luego V → abre la vista previa al lado derecho (esta es la que quieres)
 
 ## 🛠️ Mis Tecnologías Preferidas (My Stack)
 
@@ -53,17 +53,13 @@
 
 ---
 
-## Ejemplo de Uso
+## LENGUAJES QUE MANEJO
 
 <p align="center">
-  <img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/>
+  <img align="center" src="./contribucion.svg"/>
   <img align="center" src="./.github/example-light.png#gh-light-mode-only"/>
 </p>
 
-### Especificar Iconos
-Copia y pega el siguiente bloque de código en tu propio `README.md`. Solo cambia el parámetro `?i=js,html,css` por los identificadores de tus habilidades separados por comas.
 
-
-Check out my portfolio site para ver una muestra de todos mis proyectos, experiencia y habilidades.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
