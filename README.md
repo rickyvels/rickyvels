@@ -1,12 +1,11 @@
-## Hi there 👋
-I'm a passionate software developer living in Istanbul, Turkey, working for Automattic as Developer Advocate in the WordPress team. I wrote a book about JavaScript. I love being part of development of web technologies. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love JavaScript and Ruby (and RoR)⭐️.
+Hola 👋
+Soy un apasionado desarrollador de software que vive en Peru, y trabajo para EnternameSartup como Developer Software en el equipo de WordPress. . Me encanta ser parte del desarrollo de tecnologías web. Me gusta organizar conferencias y dar charlas. Me encanta el desarrollo de código abierto y construyo cosas en mi perfil de GitHub (aquí). Me encanta JavaScript y Ruby (y RoR)⭐️.
 
-⭐️ My GitHub Star Profile
-💻 What am I doing about Open Source? (GitHub, you're already here)
-𝕏 What do I think? (X)
-🦋 What do I also think? (Bluesky)
-🏹 Curriculum vitae, the path of my life (LinkedIn)
-Do not forget to view my open source projects below 👇🏻
+⭐️ Mi perfil de estrellas de GitHub
+💻 ¿Qué estoy haciendo sobre el Código Abierto? (Portafolio, https://v7-ricky.vercel.app/)
+𝕏 ¿Qué pienso? (X)
+🦋 ¿Qué más pienso? (x.com/rickyvels)
+🏹 Curriculum vitae, el camino de mi vida (LinkedIn.com/in/rickyvels)
+No olvides ver mis proyectos de código abierto a continuación 👇🏻
 
-P.S. To read this intro on terminal, just run npx fka. But why? -- why not? 🤷🏻‍♂️        
-Here are some ideas to get you started:
+P.D. Para leer esta introducción en la terminal, solo ejecuta npx fka. Pero ¿por qué? -- ¿por qué no? 🤷🏻‍♂️
