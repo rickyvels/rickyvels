@@ -14,7 +14,7 @@
 
 Soy **CEO & Fundador** de una startup tech, y trabajo activamente construyendo producto dentro del equipo de **WordPress**. Me apasiona el ecosistema web, organizar conferencias, dar charlas y construir herramientas que le devuelvan valor a la comunidad open source.
 
-- 🚀 Actualmente construyendo **[EnternameStartup]**
+- 🚀 Actualmente construyendo **[xelkox]**
 - 🌱 Enfocado en tecnologías web modernas y código abierto
 - 🎤 Organizo y participo en conferencias tech
 - 💬 Pregúntame sobre WordPress, Ruby on Rails y desarrollo de producto
