@@ -24,7 +24,7 @@ Soy **CEO & Fundador** de una startup tech, y trabajo activamente construyendo p
 <p align="left">
   <a href="https://v7-ricky.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/></a>
   <a href="https://linkedin.com/in/rickyvels" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/rickyvels" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/rickyvels" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 <br clear="right"/>
