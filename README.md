@@ -54,5 +54,3 @@ Soy **CEO & Fundador** de una startup tech, y trabajo activamente construyendo p
   <img src="./contribucion.svg" alt="Snake contribution graph"/>
   <img src="./.github/example-light.png#gh-light-mode-only" alt="Snake contribution graph light"/>
 </p>
-
-<p align="center"><sub>Gracias por pasarte por mi perfil ✌️</sub></p>
