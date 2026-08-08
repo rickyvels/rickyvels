@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Ricky Vels! 👋</h1>
+<h1 align="center">¡Hola, soy Ricky Velasquez! 👋</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
